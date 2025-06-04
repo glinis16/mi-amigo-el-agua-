@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>44EFFD</corbanda>
+        <cornavega>2E33F5</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Conociedo a mi amigo el agua </titulo>
+        <autor>Melys, Glinis, Edenith</autor>
+        <logo>amigo_agua.jpg</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+         <sonido nivel="100">running-stream-water-sound-239612.mp3</sonido>
+        <correcto son="bien.mp3" modo="1" >Muy bien</correcto>
+        <incorrecto son="error-170796.mp3" modo="1" >Puedes mejorar </incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="92" posy="38">Diapositiva1.JPG</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Diapositiva2.JPG</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="79" posy="-6">Diapositiva3.JPG</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="115" posy="-15">Diapositiva4.JPG</imaxe>
+        </paxina>
+        <paxina id="5" >
+              <tipo>12</tipo>
+              <cabeceira>Galería de imágenes </cabeceira>
+              <modo>1</modo>
+              <galeria grande="pngwing.com.png" son="lluvia-am-341315.mp3" texto="Lluvia">pngwing.com.png</galeria>
+              <galeria grande="pngwing.com_(1).png" son="river-wading-fast-50619.mp3" texto="Río">pngwing.com_(1).png</galeria>
+              <galeria grande="pngwing.com_(2).png" son="agua-sirviendose-333881.mp3" texto="Vaso de agua ">pngwing.com_(2).png</galeria>
+              <galeria grande="agua_y_cuerpo_humano.jpg" son="" texto="Cuerpo humano">agua_y_cuerpo_humano.jpg</galeria>
+              <galeria grande="pngwing.com_(4).png" son="sea-waves-169411.mp3" texto="Mar ">pngwing.com_(4).png</galeria>
+        </paxina>
+        <paxina id="6" >
+              <tipo>3</tipo>
+              <cabeceira>¡Juguemos!</cabeceira>
+              <imaxe>amigo_agua.jpg</imaxe>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>
